@@ -1,0 +1,30 @@
+﻿<Page x:Class="FlowersShopApp.Pages.SpisokSotrudnikov"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FlowersShopApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SpisokSotrudnikov" Background="AliceBlue">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Список сотрудников" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center"/>
+        <ListView Grid.Row="1" x:Name="lvSotrudniki" HorizontalAlignment="Center" VerticalAlignment="Center" MouseDoubleClick="myListView_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding id_sotrudnika}" />
+                    <GridViewColumn Header="Фамилия" DisplayMemberBinding="{Binding familiya}" />
+                    <GridViewColumn Header="Должность" DisplayMemberBinding="{Binding doljnost}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnAdd" Content="Добавить сотрудника" HorizontalAlignment="Left" Margin="10,3,0,0" Grid.Row="2" VerticalAlignment="Top" Width="144" Height="31" Click="btnAdd_Click"/>
+        <Button x:Name="btnRemove" Content="Удалить сотрудника" HorizontalAlignment="Left" Margin="172,2,0,6" Grid.Row="2" Width="144" Click="btnRemove_Click" />
+    </Grid>
+</Page>

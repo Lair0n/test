@@ -1,0 +1,130 @@
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.AssemblyReference.cache
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\MainWindow.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Avtor.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\App.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp_MarkupCompile.cache
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp_MarkupCompile.lref
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\FlowersShopApp.exe.config
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\FlowersShopApp.exe
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\FlowersShopApp.pdb
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\Npgsql.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Buffers.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Memory.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Text.Json.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.ValueTuple.dll
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\Npgsql.pdb
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\Npgsql.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Buffers.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Memory.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Text.Encodings.Web.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Text.Json.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\bin\Debug\System.ValueTuple.xml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\MainWindow.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Avtor.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.g.resources
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.Properties.Resources.resources
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.GenerateResource.cache
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.CoreCompileInputs.cache
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersS.CFB9FC0E.Up2Date
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.exe
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\FlowersShopApp.pdb
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Admin.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Pokupatel.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Admin.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Pokupatel.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Prodavez.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\Prodavez.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokPostavok.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokSkladov.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokSotrudnikov.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokZvetov.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokPostavok.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokSkladov.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokSotrudnikov.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\SpisokZvetov.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSotrudnika.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSotrudnika.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovaniePostavki.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSklad.g.cs
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovaniePostavki.baml
+D:\Проекты C#\FlowersShopApp\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSklad.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\FlowersShopApp.exe.config
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\FlowersShopApp.exe
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\FlowersShopApp.pdb
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\Npgsql.pdb
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Admin.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Avtor.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Pokupatel.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Prodavez.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovaniePostavki.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSklad.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSotrudnika.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokPostavok.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokSkladov.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokSotrudnikov.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokZvetov.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\App.g.cs
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp_MarkupCompile.cache
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp_MarkupCompile.lref
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Admin.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Avtor.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Pokupatel.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\Prodavez.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovaniePostavki.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSklad.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\RedaktirovanieSotrudnika.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokPostavok.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokSkladov.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokSotrudnikov.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\Pages\SpisokZvetov.baml
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.g.resources
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.Properties.Resources.resources
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersS.CFB9FC0E.Up2Date
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.exe
+C:\Users\User\Desktop\FlowerShopApp-main\FlowersShopApp\obj\Debug\FlowersShopApp.pdb
